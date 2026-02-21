@@ -131,10 +131,3 @@ Additional Measures Created:
 ---
 
 
-## 👨‍💻 Developed By
-
-Rishav
-Power BI Developer | Data Analyst  
-
----
-
